@@ -1,373 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:123C69&height=220&section=header&text=Siraj%20Fatwa%20Sidqy&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Information%20Systems%20Professional&descSize=20&descAlignY=58&descColor=EAF2F8" alt="Siraj Fatwa Sidqy — Information Systems Professional" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:123C69&height=200&section=header&text=Siraj%20Fatwa%20Sidqy&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Information%20Systems%20Professional&descSize=22&descAlignY=58&descColor=EAF2F8" alt="Siraj Fatwa Sidqy — Information Systems Professional" width="100%" />
 
-<br/>
+<h3>MIS &nbsp;•&nbsp; Data Analytics &nbsp;•&nbsp; ERP &nbsp;•&nbsp; Business Process</h3>
 
-<b>MIS  •  Data Analytics  •  ERP  •  Business Process</b>
-
-<br/><br/>
-
-I work at the intersection of technology, data, and business processes,<br/>
+I work at the intersection of <b>technology, data, and business processes</b>,<br/>
 with a focus on Management Information Systems, Data Analytics, ERP,<br/>
-and practical technology solutions for business operations.
+and business process optimization.
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/siraj321">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sirajfatwasidqy">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View GitHub Profile" />
-</a>
-
-<br/><br/>
-
-<sub><b>TECHNOLOGY  •  DATA  •  BUSINESS</b></sub>
+<p>
+<a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/LINKEDIN-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/GITHUB-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+</p>
 
 </div>
 
-<br/><br/>
-
-<h2 align="center">About Me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
-Information Systems professional focused on connecting technology with business needs.<br/>
-My interests span MIS, data analytics, enterprise systems, databases,<br/>
-business process analysis, and machine learning.
+Information Systems professional with experience and interests across <b>data analytics, enterprise systems,<br/>
+database management, business process analysis, and machine learning</b>.
 
-<br/><br/>
+I enjoy turning business requirements and data into practical technology solutions<br/>
+that support better processes and decision-making.
 
-I enjoy transforming data and business requirements into practical solutions<br/>
-that improve processes, support decision-making, and create business value.
-
-<br/><br/>
-
-<b>Information Systems</b>
-  ·   <b>Data Analytics</b>
-  ·   <b>ERP</b>
-  ·   <b>Business Process</b>
+<b>Information Systems</b> &nbsp;•&nbsp; <b>Data Analytics</b> &nbsp;•&nbsp; <b>ERP</b> &nbsp;•&nbsp; <b>Business Process</b>
 
 </div>
 
-<br/><br/>
+<h2 align="center">CORE AREAS</h2>
 
-<h2 align="center">Core Expertise</h2>
-
-<div align="center">
-
-<table width="92%">
-<tr>
-<td width="50%" valign="top">
-
-### Management Information Systems
-
-Enterprise information systems, system analysis, IT support, and technology solutions aligned with business operations.
-
-</td>
-<td width="50%" valign="top">
-
-### Data Analytics & BI
-
-Data preparation, analysis, visualization, machine learning, and extracting insights from structured and unstructured data.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ERP & Database Systems
-
-Oracle, Odoo, SQL, database management, and enterprise system processes.
-
-</td>
-<td width="50%" valign="top">
-
-### Business Process Analysis
-
-Understanding business requirements, analyzing workflows, and translating operational needs into system solutions.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### IT Support & Systems
-
-Technical support, system troubleshooting, API integration, data handling, and information system operations.
-
-</td>
-<td width="50%" valign="top">
-
-### Machine Learning & NLP
-
-Text processing, sentiment analysis, machine learning models, and practical applications of AI.
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>01</b></sub><br/><b>Management Information Systems (MIS)</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>02</b></sub><br/><b>Data Analytics & Business Intelligence</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>03</b></sub><br/><b>Business Process Analysis</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>04</b></sub><br/><b>ERP & Database Systems</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>05</b></sub><br/><b>IT Support & Systems</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>06</b></sub><br/><b>Digital Transformation</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>07</b></sub><br/><b>Machine Learning & NLP</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>08</b></sub><br/><b>UI/UX & System Analysis</b></p>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<br/><br/>
-
-<h2 align="center">Skills & Technologies</h2>
+<h2 align="center">SKILLS & TECHNOLOGIES</h2>
 
 <div align="center">
 
-<h4>DATA & ANALYTICS</h4>
-
-<img src="https://cdn.simpleicons.org/python/0B1F3A" width="28" alt="Python" />
-&nbsp;&nbsp;
-<b>Python</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_excel.svg" width="28" alt="Microsoft Excel" />
-&nbsp;&nbsp;
-<b>Microsoft Excel</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<b>SQL</b>
-
-<br/><br/>
-
+<sub><b>DATA & ANALYTICS</b></sub><br/>
+<img src="https://cdn.simpleicons.org/python/0B1F3A" width="22" height="22" alt="Python" /> <b>Python</b>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_excel.svg" width="22" height="22" alt="Microsoft Excel" /> <b>Microsoft Excel</b>
+&nbsp;&nbsp;&nbsp;
+<b>SQL</b><br/>
 <code>Data Cleaning</code> <code>Data Analysis</code> <code>Data Visualization</code> <code>Machine Learning</code> <code>NLP</code>
 
-<br/><br/><br/>
+<br/>
 
-<h4>DATABASE & ENTERPRISE</h4>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28" alt="Oracle" />
-&nbsp;&nbsp;
-<b>Oracle</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/odoo/0B1F3A" width="28" alt="Odoo" />
-&nbsp;&nbsp;
-<b>Odoo</b>
-
-<br/><br/>
-
+<sub><b>DATABASE & ENTERPRISE SYSTEMS</b></sub><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="22" height="22" alt="Oracle" /> <b>Oracle</b>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/odoo/0B1F3A" width="22" height="22" alt="Odoo" /> <b>Odoo</b>
+&nbsp;&nbsp;&nbsp;
+<b>SQL</b><br/>
 <code>Database Management</code> <code>ERP</code> <code>Business Systems</code>
 
-<br/><br/><br/>
+<br/>
 
-<h4>DEVELOPMENT & TOOLS</h4>
+<sub><b>DEVELOPMENT & TOOLS</b></sub><br/>
+<img src="https://cdn.simpleicons.org/python/0B1F3A" width="22" height="22" alt="Python" /> <b>Python</b>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/0B1F3A" width="22" height="22" alt="HTML" /> <b>HTML</b>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/0B1F3A" width="22" height="22" alt="Git" /> <b>Git</b>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/0B1F3A" width="22" height="22" alt="GitHub" /> <b>GitHub</b><br/>
+<code>JSON</code> <code>API Integration</code>
 
-<img src="https://cdn.simpleicons.org/html5/0B1F3A" width="28" alt="HTML" />
-&nbsp;&nbsp;
-<b>HTML</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
-<img src="https://cdn.simpleicons.org/git/0B1F3A" width="28" alt="Git" />
-&nbsp;&nbsp;
-<b>Git</b>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/github/0B1F3A" width="28" alt="GitHub" />
-&nbsp;&nbsp;
-<b>GitHub</b>
-
-<br/><br/>
-
-<code>JSON</code> <code>API Integration</code> <code>System Analysis</code> <code>UI/UX</code>
+<sub><b>INFORMATION SYSTEMS</b></sub><br/>
+<code>MIS</code> <code>ERP</code> <code>Business Process Analysis</code> <code>System Analysis</code> <code>IT Support</code> <code>UI/UX</code> <code>Digital Transformation</code>
 
 </div>
 
-<br/><br/>
+<h2 align="center">FEATURED PROJECTS</h2>
 
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-<table width="92%">
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=52&text=01%20%E2%80%A2%20DATA%20%26%20MACHINE%20LEARNING&fontColor=FFFFFF&fontSize=12&fontAlignY=52" alt="Project 01 — Data & Machine Learning" width="100%" />
-
-<br/><br/>
-
-<h3>Google Gemini Sentiment Analysis</h3>
-
-Sentiment analysis of Google Gemini user reviews collected from the Google Play Store.
-
-<br/><br/>
-
-<sub><b>STACK</b></sub>
-
-<br/>
-
-<code>Python</code> <code>NLP</code> <code>KNN</code> <code>PSO</code> <code>Google Play Scraper</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=52&text=02%20%E2%80%A2%20ENTERPRISE%20SYSTEM&fontColor=FFFFFF&fontSize=12&fontAlignY=52" alt="Project 02 — Enterprise System" width="100%" />
-
-<br/><br/>
-
-<h3>Transportation Management System</h3>
-
-Analysis and development support for a Transportation Management System covering shipment planning, demand, scheduling, dispatch, fleet, drivers, and delivery operations.
-
-<br/><br/>
-
-<sub><b>STACK</b></sub>
-
-<br/>
-
-<code>Figma</code> <code>Oracle</code> <code>JSON</code> <code>Google Maps API</code> <code>Odoo</code>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=52&text=03%20%E2%80%A2%20DATA%20ANALYTICS&fontColor=FFFFFF&fontSize=12&fontAlignY=52" alt="Project 03 — Data Analytics" width="100%" />
-
-<br/><br/>
-
-<h3>Data Analytics Projects</h3>
-
-Data preparation, exploration, analysis, visualization, and machine learning using structured datasets.
-
-<br/><br/>
-
-<sub><b>STACK</b></sub>
-
-<br/>
-
-<code>Python</code> <code>SQL</code> <code>Excel</code> <code>Pandas</code> <code>Scikit-learn</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=52&text=04%20%E2%80%A2%20BUSINESS%20SYSTEMS&fontColor=FFFFFF&fontSize=12&fontAlignY=52" alt="Project 04 — Business Systems" width="100%" />
-
-<br/><br/>
-
-<h3>Database & Business Systems</h3>
-
-Projects involving database management, SQL queries, enterprise systems, and business process analysis.
-
-<br/><br/>
-
-<sub><b>STACK</b></sub>
-
-<br/>
-
-<code>SQL</code> <code>Oracle</code> <code>Odoo</code> <code>Excel</code>
-
-</td>
-
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=44&text=PROJECT%2001&fontColor=FFFFFF&fontSize=13&fontAlignY=55" width="100%" alt="Project 01" />
+      <h3 align="center">Google Gemini<br/>Sentiment Analysis</h3>
+      <p align="center">Sentiment analysis of Google Gemini user reviews collected from the Google Play Store.</p>
+      <p align="center"><sub><b>TECHNOLOGIES</b></sub><br/><code>Python</code> <code>NLP</code> <code>Machine Learning</code> <code>KNN</code> <code>PSO</code> <code>Google Play Scraper</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=44&text=PROJECT%2002&fontColor=FFFFFF&fontSize=13&fontAlignY=55" width="100%" alt="Project 02" />
+      <h3 align="center">Transportation<br/>Management System</h3>
+      <p align="center">Analysis and development support for a Transportation Management System covering shipment planning, demand, scheduling, dispatch, fleet, drivers, and delivery operations.</p>
+      <p align="center"><sub><b>TECHNOLOGIES</b></sub><br/><code>Figma</code> <code>Oracle</code> <code>JSON</code> <code>Google Maps API</code> <code>Odoo</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=44&text=PROJECT%2003&fontColor=FFFFFF&fontSize=13&fontAlignY=55" width="100%" alt="Project 03" />
+      <h3 align="center">Data Analytics<br/>Projects</h3>
+      <p align="center">Data preparation, exploration, analysis, and machine learning using structured datasets.</p>
+      <p align="center"><sub><b>TECHNOLOGIES</b></sub><br/><code>Python</code> <code>SQL</code> <code>Excel</code> <code>Pandas</code> <code>Scikit-learn</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5AA8&height=44&text=PROJECT%2004&fontColor=FFFFFF&fontSize=13&fontAlignY=55" width="100%" alt="Project 04" />
+      <h3 align="center">Database &<br/>Business Systems</h3>
+      <p align="center">Projects involving database management, SQL queries, enterprise systems, and business process analysis.</p>
+      <p align="center"><sub><b>TECHNOLOGIES</b></sub><br/><code>SQL</code> <code>Oracle</code> <code>Odoo</code> <code>Excel</code></p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<h2 align="center">CERTIFICATIONS & PROFESSIONAL DEVELOPMENT</h2>
 
-<br/><br/>
-
-<h2 align="center">Professional Development</h2>
-
-<div align="center">
-
-<table width="92%">
-<tr>
-<td align="center" width="50%">
-
-<b>IBM Data Science</b><br/> <sub>Professional Certificate</sub>
-
-</td>
-<td align="center" width="50%">
-
-<b>IBM IT Support</b><br/> <sub>Professional Certificate</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-<b>AWS AI Academy</b><br/> <sub>AI & Machine Learning</sub>
-
-</td>
-<td align="center" width="50%">
-
-<b>Business & Data Analytics</b><br/> <sub>Analytics & Business Skills</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-<b>SQL & Database</b><br/> <sub>Database Fundamentals</sub>
-
-</td>
-<td align="center" width="50%">
-
-<b>Digital Marketing</b><br/> <sub>Digital Business Skills</sub>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>IBM Data Science<br/>Professional Certificate</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>IBM IT Support<br/>Professional Certificate</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>AWS AI Academy</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>Business & Data Analytics</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>Digital Marketing</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>SQL & Database</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>AI & Machine Learning</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5AA8&height=6" width="100%" alt="" />
+      <p align="center"><sub><b>CREDENTIAL</b></sub><br/><b>Git & GitHub</b></p>
+    </td>
+  </tr>
 </table>
 
-</div>
-
-<br/><br/>
-
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">GITHUB ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&icon_color=1E5AA8&text_color=0F172A&ring_color=1E5AA8&border_radius=12" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&icon_color=1E5AA8&text_color=0F172A&ring_color=1E5AA8&border_radius=12" alt="GitHub Stats" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&text_color=0F172A&border_radius=12" alt="Top Languages" width="42%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&text_color=0F172A&border_radius=12" alt="Top Languages" width="49%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=default&background=FFFFFF&border=E2E8F0&ring=1E5AA8&fire=1E5AA8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E5AA8&sideLabels=64748B&dates=64748B&stroke=E2E8F0&border_radius=12" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=default&background=FFFFFF&border=E2E8F0&ring=1E5AA8&fire=1E5AA8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E5AA8&sideLabels=64748B&dates=64748B&stroke=E2E8F0&border_radius=12" alt="GitHub Contribution Streak" width="70%" />
 
 </div>
 
-<br/><br/>
-
-<h2 align="center">Let's Connect</h2>
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/siraj321">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:1E5AA8&height=170&section=header&text=Technology%20%E2%80%A2%20Data%20%E2%80%A2%20Business&fontColor=FFFFFF&fontSize=30&fontAlignY=40&desc=Building%20practical%20solutions%20through%20Information%20Systems.&descSize=15&descAlignY=62&descColor=EAF2F8" alt="Technology • Data • Business — Building practical solutions through Information Systems." width="100%" />
 
-  
+<p>
+<a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my GitHub" /></a>
+</p>
 
-<a href="https://github.com/sirajfatwasidqy">
-<img src="https://img.shields.io/badge/GitHub-Follow-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<sub>Open to opportunities involving Information Systems, MIS, Data Analytics,<br/>
-ERP, IT Support, Business Process Analysis, and Digital Transformation.</sub>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:123C69&height=150&section=footer&text=Technology%20%E2%80%A2%20Data%20%E2%80%A2%20Business&fontColor=FFFFFF&fontSize=22&fontAlignY=62&desc=Building%20practical%20solutions%20through%20Information%20Systems.&descSize=13&descAlignY=80&descColor=EAF2F8" alt="Technology • Data • Business — Building practical solutions through Information Systems." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:123C69&height=90&section=footer" alt="" width="100%" />
 
 </div>
