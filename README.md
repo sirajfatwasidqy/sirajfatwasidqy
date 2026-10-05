@@ -1,215 +1,339 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=190&section=header&text=Siraj%20Fatwa%20Sidqy&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=Information%20Systems%20Professional&descSize=20&descAlignY=65&descColor=EAF2F8" alt="Siraj Fatwa Sidqy — Information Systems Professional" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&duration=1&pause=1000&color=C9A24B&center=true&vCenter=true&width=520&height=24&lines=INFORMATION+SYSTEMS+PROFESSIONAL" alt="Information Systems Professional" />
+<h3>MIS &nbsp;|&nbsp; Data Analytics &nbsp;|&nbsp; ERP</h3>
 
-# Siraj Fatwa Sidqy
+<p>
+I work at the intersection of technology, data, and business processes, with a focus on<br/>
+Management Information Systems, Data Analytics, ERP, and business process optimization.
+</p>
 
-### Information Systems Professional &nbsp;|&nbsp; MIS &nbsp;|&nbsp; Data Analytics &nbsp;|&nbsp; ERP
+<a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/LinkedIn-Siraj_Fatwa_Sidqy-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/GitHub-sirajfatwasidqy-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 
-<sub>I work at the intersection of technology, data, and business processes, with a focus on<br/>Management Information Systems, Data Analytics, ERP, and business process optimization.</sub>
+<br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/LinkedIn-Siraj_Fatwa_Sidqy-0B1220?style=for-the-badge&logo=linkedin&logoColor=C9A24B" alt="LinkedIn" /></a>
-<a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/GitHub-sirajfatwasidqy-0B1220?style=for-the-badge&logo=github&logoColor=C9A24B" alt="GitHub" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TECHNOLOGY-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" alt="" /><img src="https://img.shields.io/badge/%C2%B7-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" alt="" /><img src="https://img.shields.io/badge/DATA-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" alt="" /><img src="https://img.shields.io/badge/%C2%B7-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" alt="" /><img src="https://img.shields.io/badge/BUSINESS-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" alt="" />
+<sub><b>TECHNOLOGY &nbsp;•&nbsp; DATA &nbsp;•&nbsp; BUSINESS</b></sub>
 
 </div>
 
 <br/>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/ABOUT_ME-0B1F3A?style=for-the-badge" alt="About Me" />
+</div>
 
-## About Me
+<br/>
 
 Information Systems professional with experience and interests across data analytics, enterprise systems, database management, business process analysis, and machine learning.
 
 I enjoy turning business requirements and data into practical technology solutions that support better processes and decision-making.
 
-### Core Areas
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Management Information Systems (MIS)**<br/>
-**Data Analytics & Business Intelligence**<br/>
-**Business Process Analysis**<br/>
-**ERP & Database Systems**
-
-</td>
-    <td width="50%" valign="top">
-
-**IT Support & Systems**<br/>
-**Digital Transformation**<br/>
-**Machine Learning & NLP**<br/>
-**UI/UX & System Analysis**
-
-</td>
-  </tr>
-</table>
-
----
-
-## Skills & Technologies
-
-### 📊 Data & Analytics
-
-<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=C9A24B" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=C9A24B" alt="SQL" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-0B1220?style=flat-square&logo=microsoftexcel&logoColor=C9A24B" alt="Microsoft Excel" />
-<img src="https://img.shields.io/badge/Data_Cleaning-0B1220?style=flat-square" alt="Data Cleaning" />
-<img src="https://img.shields.io/badge/Data_Analysis-0B1220?style=flat-square" alt="Data Analysis" />
-<img src="https://img.shields.io/badge/Data_Visualization-0B1220?style=flat-square" alt="Data Visualization" />
-<img src="https://img.shields.io/badge/Machine_Learning-0B1220?style=flat-square" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/NLP-0B1220?style=flat-square" alt="NLP" />
-
-### 🗄️ Database & Enterprise Systems
-
-<img src="https://img.shields.io/badge/Oracle-0B1220?style=flat-square&logo=oracle&logoColor=C9A24B" alt="Oracle" />
-<img src="https://img.shields.io/badge/Odoo-0B1220?style=flat-square&logo=odoo&logoColor=C9A24B" alt="Odoo" />
-<img src="https://img.shields.io/badge/Database_Management-0B1220?style=flat-square" alt="Database Management" />
-<img src="https://img.shields.io/badge/ERP-0B1220?style=flat-square" alt="ERP" />
-<img src="https://img.shields.io/badge/Business_Systems-0B1220?style=flat-square" alt="Business Systems" />
-<img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=C9A24B" alt="SQL" />
-
-### 💻 Development & Tools
-
-<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=C9A24B" alt="Python" />
-<img src="https://img.shields.io/badge/HTML-0B1220?style=flat-square&logo=html5&logoColor=C9A24B" alt="HTML" />
-<img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=C9A24B" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=C9A24B" alt="GitHub" />
-<img src="https://img.shields.io/badge/JSON-0B1220?style=flat-square&logo=json&logoColor=C9A24B" alt="JSON" />
-<img src="https://img.shields.io/badge/API_Integration-0B1220?style=flat-square" alt="API Integration" />
-
-### 🏢 Information Systems
-
-<img src="https://img.shields.io/badge/MIS-0B1220?style=flat-square" alt="MIS" />
-<img src="https://img.shields.io/badge/ERP-0B1220?style=flat-square" alt="ERP" />
-<img src="https://img.shields.io/badge/Business_Process_Analysis-0B1220?style=flat-square" alt="Business Process Analysis" />
-<img src="https://img.shields.io/badge/System_Analysis-0B1220?style=flat-square" alt="System Analysis" />
-<img src="https://img.shields.io/badge/IT_Support-0B1220?style=flat-square" alt="IT Support" />
-<img src="https://img.shields.io/badge/UI%2FUX-0B1220?style=flat-square" alt="UI/UX" />
-<img src="https://img.shields.io/badge/Digital_Transformation-0B1220?style=flat-square" alt="Digital Transformation" />
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📊 Google Gemini Sentiment Analysis
-
-Sentiment analysis of Google Gemini user reviews collected from the Google Play Store.
-
-**Technologies**<br/>
-Python • NLP • Machine Learning • KNN • PSO • Google Play Scraper
-
-</td>
-    <td width="50%" valign="top">
-
-### 🚚 Transportation Management System
-
-Analysis and development support for a Transportation Management System covering shipment planning, demand, scheduling, dispatch, fleet, drivers, and delivery operations.
-
-**Technologies**<br/>
-Figma • Oracle • JSON • Google Maps API • Odoo
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📈 Data Analytics Projects
-
-Data preparation, exploration, analysis, and machine learning using structured datasets.
-
-**Technologies**<br/>
-Python • SQL • Excel • Pandas • Scikit-learn
-
-</td>
-    <td width="50%" valign="top">
-
-### 🗄️ Database & Business Systems
-
-Projects involving database management, SQL queries, enterprise systems, and business process analysis.
-
-**Technologies**<br/>
-SQL • Oracle • Odoo • Excel
-
-</td>
-  </tr>
-</table>
-
----
-
-## Certifications & Professional Development
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**IBM Data Science Professional Certificate**<br/>
-**IBM IT Support Professional Certificate**<br/>
-**AWS AI Academy**<br/>
-**Business & Data Analytics**
-
-</td>
-    <td width="50%" valign="top">
-
-**Digital Marketing**<br/>
-**SQL & Database**<br/>
-**AI & Machine Learning**<br/>
-**Git & GitHub**
-
-</td>
-  </tr>
-</table>
-
----
-
-## GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&hide_border=false&border_color=1F2937&bg_color=0B1220&title_color=C9A24B&icon_color=C9A24B&text_color=C9D1D9&ring_color=C9A24B&border_radius=10" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&hide_border=false&border_color=1F2937&bg_color=0B1220&title_color=C9A24B&text_color=C9D1D9&border_radius=10" alt="Top Languages" width="49%" />
+  <img src="https://img.shields.io/badge/CORE_AREAS-1E5AA8?style=for-the-badge" alt="Core Areas" />
 </div>
-
-## Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=dark&background=0B1220&border=1F2937&ring=C9A24B&fire=C9A24B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9A24B&sideLabels=C9A24B&dates=8B949E&stroke=1F2937&hide_border=false&border_radius=10" alt="GitHub Contribution Streak" />
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fsiraj321-0B1220?style=for-the-badge&logo=linkedin&logoColor=C9A24B" alt="LinkedIn" /></a>
-<a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/GitHub-github.com%2Fsirajfatwasidqy-0B1220?style=for-the-badge&logo=github&logoColor=C9A24B" alt="GitHub" /></a>
 
 <br/>
 
-LinkedIn: [https://www.linkedin.com/in/siraj321](https://www.linkedin.com/in/siraj321)<br/>
-GitHub: [https://github.com/sirajfatwasidqy](https://github.com/sirajfatwasidqy)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>Management Information<br/>Systems (MIS)</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>Data Analytics<br/>& Business Intelligence</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/sitemap.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>Business Process<br/>Analysis</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/database-cog.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>ERP & Database<br/>Systems</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/headset.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>IT Support<br/>& Systems</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/cloud-sync-outline.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>Digital<br/>Transformation</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/brain.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>Machine Learning<br/>& NLP</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/palette-outline.svg?color=%231E5AA8" width="38" alt="" /><br/><br/>
+      <b>UI/UX<br/>& System Analysis</b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SKILLS_%26_TECHNOLOGIES-0B1F3A?style=for-the-badge" alt="Skills & Technologies" />
 </div>
 
----
+<br/>
+
+<div align="center"><b>DATA & ANALYTICS</b></div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/python/1E5AA8" width="28" alt="" /><br/><sub><b>Python</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/database-search.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>SQL</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/microsoftexcel/1E5AA8" width="28" alt="" /><br/><sub><b>Microsoft Excel</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/broom.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Data Cleaning</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Data Analysis</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Data Visualization</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/brain.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Machine Learning</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/message-text-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>NLP</b></sub><br/><br/></td>
+    <td align="center" width="33%"></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center"><b>DATABASE & ENTERPRISE SYSTEMS</b></div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/oracle/1E5AA8" width="28" alt="" /><br/><sub><b>Oracle</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/odoo/1E5AA8" width="28" alt="" /><br/><sub><b>Odoo</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/database-cog.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Database Management</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/cog-transfer-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>ERP</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/domain.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Business Systems</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/database-search.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>SQL</b></sub><br/><br/></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center"><b>DEVELOPMENT & TOOLS</b></div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/python/1E5AA8" width="28" alt="" /><br/><sub><b>Python</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/html5/1E5AA8" width="28" alt="" /><br/><sub><b>HTML</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/git/1E5AA8" width="28" alt="" /><br/><sub><b>Git</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/github/1E5AA8" width="28" alt="" /><br/><sub><b>GitHub</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://cdn.simpleicons.org/json/1E5AA8" width="28" alt="" /><br/><sub><b>JSON</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/api.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>API Integration</b></sub><br/><br/></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center"><b>INFORMATION SYSTEMS</b></div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>MIS</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/cog-transfer-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>ERP</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/sitemap.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Business Process Analysis</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/clipboard-text-search-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>System Analysis</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/headset.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>IT Support</b></sub><br/><br/></td>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/palette-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>UI/UX</b></sub><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><br/><img src="https://api.iconify.design/mdi/cloud-sync-outline.svg?color=%231E5AA8" width="28" alt="" /><br/><sub><b>Digital Transformation</b></sub><br/><br/></td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-1E5AA8?style=for-the-badge" alt="Featured Projects" />
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/mdi/chat-processing-outline.svg?color=%231E5AA8" width="36" alt="" /><br/><br/>
+      <b>Google Gemini<br/>Sentiment Analysis</b><br/><br/>
+      <sub>Sentiment analysis of Google Gemini user reviews collected from the Google Play Store.</sub><br/><br/>
+      <sub><b>Technologies</b></sub><br/>
+      <sub>Python • NLP • Machine Learning • KNN • PSO • Google Play Scraper</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/mdi/truck-delivery-outline.svg?color=%231E5AA8" width="36" alt="" /><br/><br/>
+      <b>Transportation<br/>Management System</b><br/><br/>
+      <sub>Analysis and development support for a Transportation Management System covering shipment planning, demand, scheduling, dispatch, fleet, drivers, and delivery operations.</sub><br/><br/>
+      <sub><b>Technologies</b></sub><br/>
+      <sub>Figma • Oracle • JSON • Google Maps API • Odoo</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/mdi/chart-line.svg?color=%231E5AA8" width="36" alt="" /><br/><br/>
+      <b>Data Analytics<br/>Projects</b><br/><br/>
+      <sub>Data preparation, exploration, analysis, and machine learning using structured datasets.</sub><br/><br/>
+      <sub><b>Technologies</b></sub><br/>
+      <sub>Python • SQL • Excel • Pandas • Scikit-learn</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://api.iconify.design/mdi/database-outline.svg?color=%231E5AA8" width="36" alt="" /><br/><br/>
+      <b>Database &<br/>Business Systems</b><br/><br/>
+      <sub>Projects involving database management, SQL queries, enterprise systems, and business process analysis.</sub><br/><br/>
+      <sub><b>Technologies</b></sub><br/>
+      <sub>SQL • Oracle • Odoo • Excel</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS_%26_PROFESSIONAL_DEVELOPMENT-0B1F3A?style=for-the-badge" alt="Certifications & Professional Development" />
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://cdn.simpleicons.org/ibm/1E5AA8" width="52" alt="IBM" /><br/><br/>
+      <b>IBM Data Science<br/>Professional Certificate</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://cdn.simpleicons.org/ibm/1E5AA8" width="52" alt="IBM" /><br/><br/>
+      <b>IBM IT Support<br/>Professional Certificate</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%231E5AA8" width="44" alt="AWS" /><br/><br/>
+      <b>AWS AI Academy</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%231E5AA8" width="44" alt="" /><br/><br/>
+      <b>Business &<br/>Data Analytics</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/bullhorn-outline.svg?color=%231E5AA8" width="44" alt="" /><br/><br/>
+      <b>Digital Marketing</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/database-outline.svg?color=%231E5AA8" width="44" alt="" /><br/><br/>
+      <b>SQL & Database</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://api.iconify.design/mdi/brain.svg?color=%231E5AA8" width="44" alt="" /><br/><br/>
+      <b>AI & Machine Learning</b>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <br/>
+      <img src="https://cdn.simpleicons.org/git/1E5AA8" width="44" alt="" /><br/><br/>
+      <b>Git & GitHub</b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GITHUB_STATS-1E5AA8?style=for-the-badge" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&icon_color=1E5AA8&text_color=0F172A&ring_color=1E5AA8&border_radius=10" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&text_color=0F172A&border_radius=10" alt="Top Languages" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTION_STREAK-0B1F3A?style=for-the-badge" alt="Contribution Streak" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=default&background=FFFFFF&border=E2E8F0&ring=1E5AA8&fire=1E5AA8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E5AA8&sideLabels=64748B&dates=64748B&stroke=E2E8F0&border_radius=10" alt="GitHub Contribution Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CONNECT_WITH_ME-1E5AA8?style=for-the-badge" alt="Connect With Me" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/siraj321"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fsiraj321-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <br/>
+  <a href="https://github.com/sirajfatwasidqy"><img src="https://img.shields.io/badge/GitHub-github.com%2Fsirajfatwasidqy-1E5AA8?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <br/><br/>
+  <sub>LinkedIn: <a href="https://www.linkedin.com/in/siraj321">https://www.linkedin.com/in/siraj321</a></sub><br/>
+  <sub>GitHub: <a href="https://github.com/sirajfatwasidqy">https://github.com/sirajfatwasidqy</a></sub>
+</div>
+
+<br/>
 
 <div align="center">
 
-### Technology • Data • Business
-
-*Building practical solutions through Information Systems.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=110&section=footer&text=Technology%20%E2%80%A2%20Data%20%E2%80%A2%20Business&fontColor=FFFFFF&fontSize=24&fontAlignY=40&desc=Building%20practical%20solutions%20through%20Information%20Systems.&descSize=14&descAlignY=65&descColor=EAF2F8" alt="Technology • Data • Business — Building practical solutions through Information Systems." width="100%" />
 
 </div>
