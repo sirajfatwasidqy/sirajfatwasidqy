@@ -33,7 +33,6 @@ database management, business process analysis, and machine learning</b>.
 I enjoy turning business requirements and data into practical technology solutions<br/>
 that support better processes and decision-making.
 
-<b>Information Systems</b> &nbsp;•&nbsp; <b>Data Analytics</b> &nbsp;•&nbsp; <b>ERP</b> &nbsp;•&nbsp; <b>Business Process</b>
 
 </div>
 
@@ -57,7 +56,7 @@ that support better processes and decision-making.
     </td>
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
-      <p align="center"><sub><b>04</b></sub><br/><b>ERP/b></p>
+      <p align="center"><sub><b>04</b></sub><br/><b>ERP</p>
     </td>
   </tr>
   <tr>
@@ -118,7 +117,7 @@ that support better processes and decision-making.
 
 <br/>
 
-<sub><b>INFORMATION SYSTEMS</b></sub><br/>
+
 <code>MIS</code> <code>ERP</code> <code>Business Process Analysis</code> <code>System Analysis</code> <code>IT Support</code> <code>UI/UX</code> <code>Digital Transformation</code>
 
 </div>
@@ -224,42 +223,16 @@ that support better processes and decision-making.
 
 <p align="center">
   <sub>
-    <img src="https://img.shields.io/badge/GENERATED%20AUTOMATICALLY-0B1F3A?style=flat-square&labelColor=1E5AA8&color=0B1F3A" height="20" />
-    <br/>
-    <a href="https://github.com/abozanona/pacman-contribution-graph">
-      <b>Pac-Man Contribution Graph</b>
-    </a>
-    <br/>
-    <sup>Powered by GitHub Actions · Updated automatically</sup>
+    <img src="https://img.shields.io/badge/Siraj%20Activity-0B1F3A?style=flat-square&labelColor=1E5AA8&color=0B1F3A" height="20" />
   </sub>
 </p>
 
 
 </div>
 
-<h2 align="center">GITHUB ACTIVITY</h2>
-
-<div align="center">
 
 
 <div align="center">
-  <a href="https://github.com/sirajfatwasidqy">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&ring_color=3B82F6&border_radius=16&rank_icon=github"
-      alt="GitHub Stats"
-      width="70%"
-    />
-  </a>
-</div>
-
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&langs_count=8&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&text_color=E2E8F0&border_radius=16&card_width=450"
-    alt="Siraj's Top Languages"
-    width="65%"
-  />
-</div>
 
 
 <img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=default&background=FFFFFF&border=E2E8F0&ring=1E5AA8&fire=1E5AA8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E5AA8&sideLabels=64748B&dates=64748B&stroke=E2E8F0&border_radius=12" alt="GitHub Contribution Streak" width="70%" />
