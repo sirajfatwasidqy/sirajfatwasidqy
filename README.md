@@ -4,6 +4,13 @@
 
 <h3>MIS &nbsp;•&nbsp; Data Analytics &nbsp;•&nbsp; ERP &nbsp;•&nbsp; Business Process</h3>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=1E5AA8&center=true&vCenter=true&width=680&height=50&lines=Information+Systems+Professional;MIS+%7C+Data+Analytics+%7C+ERP;Business+Process+Analysis+%7C+Digital+Transformation"
+    alt="Typing animation"
+  />
+</p>
+
 I work at the intersection of <b>technology, data, and business processes</b>,<br/>
 with a focus on Management Information Systems, Data Analytics, ERP,<br/>
 and business process optimization.
@@ -193,6 +200,30 @@ that support better processes and decision-making.
     </td>
   </tr>
 </table>
+
+<h2 align="center">PAC-MAN CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sirajfatwasidqy/sirajfatwasidqy/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sirajfatwasidqy/sirajfatwasidqy/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/sirajfatwasidqy/sirajfatwasidqy/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
+
+<sub>Generated automatically with <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a>.</sub>
+
+</div>
 
 <h2 align="center">GITHUB ACTIVITY</h2>
 
