@@ -57,7 +57,7 @@ that support better processes and decision-making.
     </td>
     <td width="50%" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=6" width="100%" alt="" />
-      <p align="center"><sub><b>04</b></sub><br/><b>ERP & Database Systems</b></p>
+      <p align="center"><sub><b>04</b></sub><br/><b>ERP/b></p>
     </td>
   </tr>
   <tr>
