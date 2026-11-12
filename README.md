@@ -221,7 +221,19 @@ that support better processes and decision-making.
   />
 </picture>
 
-<sub>Generated automatically with <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a>.</sub>
+
+<p align="center">
+  <sub>
+    <img src="https://img.shields.io/badge/GENERATED%20AUTOMATICALLY-0B1F3A?style=flat-square&labelColor=1E5AA8&color=0B1F3A" height="20" />
+    <br/>
+    <a href="https://github.com/abozanona/pacman-contribution-graph">
+      <b>Pac-Man Contribution Graph</b>
+    </a>
+    <br/>
+    <sup>Powered by GitHub Actions · Updated automatically</sup>
+  </sub>
+</p>
+
 
 </div>
 
@@ -229,8 +241,26 @@ that support better processes and decision-making.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&icon_color=1E5AA8&text_color=0F172A&ring_color=1E5AA8&border_radius=12" alt="GitHub Stats" width="42%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&hide_border=false&border_color=E2E8F0&bg_color=FFFFFF&title_color=0B1F3A&text_color=0F172A&border_radius=12" alt="Top Languages" width="42%" />
+
+<div align="center">
+  <a href="https://github.com/sirajfatwasidqy">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=sirajfatwasidqy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&ring_color=3B82F6&border_radius=16&rank_icon=github"
+      alt="GitHub Stats"
+      width="70%"
+    />
+  </a>
+</div>
+
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajfatwasidqy&layout=compact&langs_count=8&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&text_color=E2E8F0&border_radius=16&card_width=450"
+    alt="Siraj's Top Languages"
+    width="65%"
+  />
+</div>
+
 
 <img src="https://streak-stats.demolab.com/?user=sirajfatwasidqy&theme=default&background=FFFFFF&border=E2E8F0&ring=1E5AA8&fire=1E5AA8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E5AA8&sideLabels=64748B&dates=64748B&stroke=E2E8F0&border_radius=12" alt="GitHub Contribution Streak" width="70%" />
 
